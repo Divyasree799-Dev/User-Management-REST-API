@@ -64,7 +64,7 @@ json
 Get All Users (GET)
 URL: (http://localhost:8082/getAll)
 
-##Note:Frontend related code is present on main branch.
+*********Note:Frontend related code is present on main branch*********
 
 Author
 Divyasree Boli
